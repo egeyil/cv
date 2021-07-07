@@ -4,6 +4,7 @@ body {
 
 h1 {
   color: #F29191;
+  background-color: #B5EAEA;
   border-style: none;
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 70px;
@@ -39,6 +40,10 @@ hr {
 }
 
 /*--------------------Class Selectors-------------------*/
+.title:hover{
+  background-color: #FEFDCA;
+}
+
 .bogos {
   color: #7a7c7f;
   font-size: 20px;
